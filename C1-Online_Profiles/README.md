@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/CLovewell)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/carnahan-lovewell-01096122b/)
 
 ### Resume
 [Resume - PDF](https://github.com/CLovewell/liftoff-assignments/blob/master/C1-Online_Profiles/Carnahan%20Lovewell%20-%20Technology%20Field%20Resume.pdf)
