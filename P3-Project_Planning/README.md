@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* [Plant search, list and detail views](P3-Project_Planning/Plant-Detail-View-Frame-2.jpg)
+* [Plant search, list and detail views](Plant-Detail-View-Frame-2.jpg)
 
 ### Project Tracker
 
